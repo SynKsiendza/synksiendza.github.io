@@ -10,7 +10,7 @@ sub-CPPFramework:
   name: CPP Framework
   parent-category: Projects
   parent-category-name: Projects
-  description: Things about my C++ Framework project
+  description: Things about my C++ Library project
 sub-SurvivalGame:
   name: Survival Game
   parent-category: Projects
